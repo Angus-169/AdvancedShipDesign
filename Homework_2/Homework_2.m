@@ -68,4 +68,4 @@ for Iteration_m = (1:Iteration_Wigley_L)
         S_Discrete_half = S_Discrete_half + S_Quadrilateral; 
     end
 end
-S_Discrete = 2 * S_Discrete_half;
+S_Discrete = 2 * S_Discrete_half
